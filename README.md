@@ -64,3 +64,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Process pour installation du projet sous docker:
+- installer docker windows
+- installer ubuntu
+- installer ces packages sur la machine : curl, php, composer, npm, nodejs, php-dom, php-curl, nvm
+- lancer commande de la doc (/!\ attention à espace du disque)
+- lancer composer update et composer install
+- installer breeze pour utiliser vue.js
+- pour visualiser la bdd : utilisation de tablePlus
